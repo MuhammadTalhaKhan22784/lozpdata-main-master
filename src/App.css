@@ -126,6 +126,7 @@ top:54% !important;
   color: rgba(255, 255, 255, 0.9);
   font-size: 18px;
   width: 40%;
+  text-align: justify;
   line-height: 1.65em;
   margin-top: 1rem;
   margin-bottom: 3rem;
@@ -170,7 +171,7 @@ top:54% !important;
 
 .prd-con-items > h2 {
   width: 54vw;
-  text-align: center;
+  text-align: justify !important;
   line-height: 1.4;
   /* font-size: 3vw; */
   font-weight: bold;
@@ -312,6 +313,7 @@ top:54% !important;
 .prev-work-item-2 > p {
   font-size: 1.2em;
   width: 94%;
+  text-align: justify;
   color: black;
   margin-bottom: 60px;
 }
@@ -542,6 +544,7 @@ top:54% !important;
 .prev-work-2-item-1 > p {
   font-size: 1.2em;
   width: 94%;
+  text-align: justify;
   color: black;
   margin-bottom: 60px;
 }
