@@ -5,8 +5,8 @@ const AboutSection5 = () => {
         <>
             <div className="abt-sec-5">
                 <div className="abt-sec-5-text">
-                    <h1 className="display-6">Our creative heads build beautiful digital products.</h1>
-                    <p className="fs-5">Software and mobile app development for businesses from across the globe.</p>
+                    <h1 className="display-6 lh-base">Our creative heads build beautiful digital products.</h1>
+                    <p className="fs-5 lh-base">Software and mobile app development for businesses from across the globe.</p>
                 </div>
                 <div className="abt-sec-5-main">
                     <div className="container">

@@ -17,10 +17,10 @@ const AboutSection2 = () => {
                                     <span className="fs-5">Work with the Tech Leader.</span>
                                 </div>
                                 <div>
-                                    <h2 className="fs-2">Cubix brings ideas to life, leveraging modern technologies.</h2>
+                                    <h2 className="fs-2 lh-base">Cubix brings ideas to life, leveraging modern technologies.</h2>
                                 </div>
                                 <div>
-                                    <p className="fs-5">Cubix started its journey in 2008 with a team of seven. Today, it has grown into a full-cycle, mobile-first software development company, with the highest team satisfaction in the industry, independent analyst recognition, and an ever-growing list of delighted clients who work with us again and again. We are proud to have worked with Estee Lauder, Clinique, Engro, Swatch Group, Politico, and OOMCO. We have helped dozens of startups with modern technologies.</p>
+                                    <p className="fs-5 lh-base">Cubix started its journey in 2008 with a team of seven. Today, it has grown into a full-cycle, mobile-first software development company, with the highest team satisfaction in the industry, independent analyst recognition, and an ever-growing list of delighted clients who work with us again and again. We are proud to have worked with Estee Lauder, Clinique, Engro, Swatch Group, Politico, and OOMCO. We have helped dozens of startups with modern technologies.</p>
                                 </div>
                             </div>
                         </div>

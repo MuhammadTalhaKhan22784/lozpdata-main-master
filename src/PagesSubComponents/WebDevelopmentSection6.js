@@ -12,8 +12,8 @@ const WebDevelopmentSection6 = (props) => {
                         <div className="col-sm-12 col-md-6 col-lg-6">
                             <div className="web-card-text">
                                 <h2 >{props.webText1}</h2>
-                                <h5 className="lh-base text-center">{props.webText2}</h5>
-                                <h5 className="lh-base text-center">{props.webText3}</h5>
+                                <h5 className="lh-base mx-auto">{props.webText2}</h5>
+                                <h5 className="lh-base mx-auto">{props.webText3}</h5>
                             </div>
                         </div>
                     </Fade>

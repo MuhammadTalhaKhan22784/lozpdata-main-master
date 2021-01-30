@@ -15,7 +15,7 @@ const AboutProcessSection3 = (props) => {
                         <div className="col-12 col-lg-2">
                             <div className="abt-sec-3-2 d-flex justify-content-center">
                                {props.isShow ? props.abtImage
-                               : 
+                               :  
                                <img alt="img" src={props.abtImage}/>
                                } 
                 

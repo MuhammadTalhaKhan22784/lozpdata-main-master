@@ -27,6 +27,10 @@
     width: 100%;
 }
 
+.about-sec-3 p{
+    text-align: justify;
+}
+
 .abt-sec-3-2 .enlivenem{
     width: 140px;
 }
@@ -106,6 +110,9 @@
         margin: 0 auto;
         padding: 1rem 0.5rem;
     }
+    .abt-sec-3-2 img{
+        width: 140px;
+    }
 }
 
 
@@ -136,7 +143,7 @@
     display: flex;
     width: 100%;
     flex-direction: column;
-    line-height: 2rem;
+    line-height: 2rem; 
 }
 
 .abt-main-text span{
@@ -148,11 +155,13 @@
 .abt-main-text h2{
     font-weight: 600;
     width: 90%;
+    text-align: justify;
     text-transform: initial;
 }
 
 .abt-main-text p{
     opacity: 0.9;
+    text-align: justify;
     width: 90%;
 }
 
@@ -204,7 +213,7 @@
 }
 
 .abt-sec-4-cards p{
-    text-align: center;
+    text-align: justify;
     color: black;
     opacity: 0.9;
     padding: 0 1.5rem;
@@ -297,6 +306,7 @@
 .abt-sec-7-content p,.abt-sec-7-content span{
     color: black;
     opacity: 0.8;
+    text-align: justify;
 }
 
 .quotes-cicle {
@@ -485,7 +495,7 @@
     width: 60%;
     margin: 0 auto;
     text-transform: initial;
-    text-align: center;
+    text-align: justify;
     opacity: 0.9;
   }
 

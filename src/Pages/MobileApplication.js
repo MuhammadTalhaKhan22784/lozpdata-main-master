@@ -29,15 +29,15 @@ const MobileApplication = () => {
                                 </h1>
                             </Fade>
                         </div>
-                        <div>
+                        <div className="m-span">
                             <Fade bottom duration={2000} delay={400}>
-                                <span className="span2">Delivering Sophistication through a Refined Process —</span>
+                                <span className="span2 lh-base">Delivering Sophistication through a Refined Process —</span>
                             </Fade>
                             <Fade bottom duration={2200} delay={500}>
-                                <span className="span2">We build purpose-driven mobile apps with your success</span>
+                                <span className="span2 lh-base">We build purpose-driven mobile apps with your success</span>
                             </Fade>
                             <Fade bottom duration={2300} delay={600}>
-                                <span className="span2">in mind.</span>
+                                <span className="span2 lh-base">in mind.</span>
                             </Fade>
 
 
@@ -117,27 +117,27 @@ const MobileApplication = () => {
 
 
                 <div className="section2">
-                    <h1>Work with a globally-recognized </h1>
-                    <h1>mobile app development company</h1>
+                    <h1 className="fs-1 lh-base">Work with a globally-recognized </h1>
+                    <h1 className="fs-1 lh-base">mobile app development company</h1>
 
-                    <h1>Mobile application development services hold a gigantic chunk in the economy, estimated to be valued over $6 billion by 2023. We have been in the frontline of mobile app design in USA since we began our journey in 2008.</h1>
+                    <h1 className="lh-base">Mobile application development services hold a gigantic chunk in the economy, estimated to be valued over $6 billion by 2023. We have been in the frontline of mobile app design in USA since we began our journey in 2008.</h1>
 
-                    <h1>We are recognized as one of the world’s most desired mobile app development companies. Our mobile app developers, designers, and strategists, are fueled with creativity and passion for app design. This is why our mobile app services are recognized among the best in the industry.</h1>
+                    <h1 className="lh-base">We are recognized as one of the world’s most desired mobile app development companies. Our mobile app developers, designers, and strategists, are fueled with creativity and passion for app design. This is why our mobile app services are recognized among the best in the industry.</h1>
                 </div>
 
 
                 <div className="section3">
-                    <h1>Mobile app services the Lozpdata way</h1>
-                    <p>Whether you are a small-scale business, a startup, or an enterprise looking to build a mobile app, our development process remains the same. We transform your ideas into successful mobile apps that become an integral part of everyone’s lives. With our smooth app development process, the apps we build are engaging, robust, user-friendly, and well-crafted.</p>
+                    <h1 className="fs-1 lh-base text-center">Mobile app services the Lozpdata way</h1>
+                    <p className="lh-base">Whether you are a small-scale business, a startup, or an enterprise looking to build a mobile app, our development process remains the same. We transform your ideas into successful mobile apps that become an integral part of everyone’s lives. With our smooth app development process, the apps we build are engaging, robust, user-friendly, and well-crafted.</p>
                 </div>
                 {/*  */}
                 <MobAppSec4 />
                 <div className="section5">
                     <div>
-                        <h1>Apps developed by Lozpdata rake in success</h1>
-                        <p>It doesn’t matter if you are a small-scale business, a unicorn startup or an enterprise, our development process stays the same, which has awesome written all over it. We begin by asking the number one question “How can I turn my idea into a successful app”. “An app that becomes an integral part of everyone’s life”. The answer: our app development process. We want our apps to be intuitive, appealing, robust and friendly.</p>
-                        <p>We aren’t in a rush to escalate your project as we believe in detailed evaluation of a product, through various stages including Planning, sketching, wireframing, prototyping, developing, quality assurance, and launching an MVP. Our goal is to create mobile apps that are bound to rake in popularity, downloads and marvelous word of mouth.</p>
-                        <p>You can findLozpdata ’s leading mobile app development team in USA, Florida, Dubai, and Karachi.</p>
+                        <h1 className="fs-1 mx-auto lh-base text-center">Apps developed by Lozpdata rake in success</h1>
+                        <p className="lh-base">It doesn’t matter if you are a small-scale business, a unicorn startup or an enterprise, our development process stays the same, which has awesome written all over it. We begin by asking the number one question “How can I turn my idea into a successful app”. “An app that becomes an integral part of everyone’s life”. The answer: our app development process. We want our apps to be intuitive, appealing, robust and friendly.</p>
+                        <p className="lh-base">We aren’t in a rush to escalate your project as we believe in detailed evaluation of a product, through various stages including Planning, sketching, wireframing, prototyping, developing, quality assurance, and launching an MVP. Our goal is to create mobile apps that are bound to rake in popularity, downloads and marvelous word of mouth.</p>
+                        <p className="lh-base">You can findLozpdata ’s leading mobile app development team in USA, Florida, Dubai, and Karachi.</p>
                     </div>
                 </div>
 
@@ -145,8 +145,8 @@ const MobileApplication = () => {
 
                 <div className="section6">
                     <div className="content1">
-                        <h1>App development process</h1>
-                        <h3>Being among the top mobile app development companies, Lozpdata guarantees intuitive mobile apps that are performance-oriented and a lifestyle toolkit. We convert untapped ideas into mobile apps!</h3>
+                        <h1 className="fs-1 lh-base">App development process</h1>
+                        <h3 className="fs-5">Being among the top mobile app development companies, Lozpdata guarantees intuitive mobile apps that are performance-oriented and a lifestyle toolkit. We convert untapped ideas into mobile apps!</h3>
                     </div>
 
                     <div className="sec5CardsMain">
@@ -190,10 +190,10 @@ const MobileApplication = () => {
 
                 <div className="section5">
                     <div>
-                        <h1>World-famous mobile application development company</h1>
-                        <p>Mobile apps indeed hold a significant chunk of the market, currently (about 58%), making it important for your business to invest in one. If you have a wide customer base from your e-commerce website, imagine the power of pairing that with a mobile app!</p>
-                        <p>Lozpdata is a popular mobile app development company that helps you achieve your goals. We examine your particular need and work to develop your app solution to perfection! And it all starts with a rock-solid plan that not only sets the parameters of your project features, but also minutely defines and strategizes the length and breadth of programming required. This concrete plan is matched against a strict timeline to ensure delivery on time.</p>
-                        <p>Every customer is important to us, as we believe in taking everyone who approaches us to the next level. So, no matter what kind of app you are desirous of building; we can build anything for you from scratch.</p>
+                        <h1 className="fs-1 mx-auto lh-base text-center">World-famous mobile application development company</h1>
+                        <p className="lh-base">Mobile apps indeed hold a significant chunk of the market, currently (about 58%), making it important for your business to invest in one. If you have a wide customer base from your e-commerce website, imagine the power of pairing that with a mobile app!</p>
+                        <p className="lh-base">Lozpdata is a popular mobile app development company that helps you achieve your goals. We examine your particular need and work to develop your app solution to perfection! And it all starts with a rock-solid plan that not only sets the parameters of your project features, but also minutely defines and strategizes the length and breadth of programming required. This concrete plan is matched against a strict timeline to ensure delivery on time.</p>
+                        <p className="lh-base">Every customer is important to us, as we believe in taking everyone who approaches us to the next level. So, no matter what kind of app you are desirous of building; we can build anything for you from scratch.</p>
                     </div>
                 </div>
 
@@ -261,7 +261,7 @@ const MobileApplication = () => {
                 <div className="WorkWithBest">
                     <div className="child1">
                         <div className="cont1">
-                            <h1 className="ca">
+                            <h1 className="ca fs-3">
                                 <span>Work with the best app </span>
                                 <span>development company</span>
                             </h1>
@@ -371,7 +371,7 @@ const MobileApplication = () => {
                         </div>
                         <div className="insightCard3">
                             <img alt="img" src="https://www.cubix.co/themes/responsiv-clean/assets/images/seo-pages/mobile-seo/sideboxicon.png" alt="phototectimage" />
-                            <h1>Get our best content straight to your inbox.</h1>
+                            <h1 className="fs-5 lh-base">Get our best content straight to your inbox.</h1>
                             <button>contact us</button>
                         </div>
                     </div>

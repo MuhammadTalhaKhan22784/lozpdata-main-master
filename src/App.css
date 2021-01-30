@@ -1172,8 +1172,8 @@ top:54% !important;
 
   .dev-enterprise-para > p {
     width: 100%;
-    text-align: center;
     line-height: 36px;
+    text-align: justify;
     font-size: 1.1em;
     color: black;
     font-weight: 600;
@@ -1827,9 +1827,9 @@ top:54% !important;
 }
 
 .dev-enterprise-para > p {
-  text-align: center;
   font-size: 1.5em;
   color: black;
+  text-align: justify;
   font-weight: 600;
   margin: 0 auto;
 }
@@ -1987,9 +1987,9 @@ top:54% !important;
     display: none !important;
   }
   .dev-enterprise-para > p {
-    text-align: center;
     font-size: 1.2em;
     color: black;
+    text-align: justify;
     font-weight: 600;
     margin: 0 auto;
   }

@@ -11,7 +11,7 @@ const MVPDevelopmentSection3 = () => {
                         </div>
                         <div className="col-sm-12 col-lg-7 px-5">
                             <h2 className="fs-3 fw-bold text-center lh-base mt-2">Nurturing your business idea: the road to success with mvp development</h2>
-                            <h6 className="fs-5 s2-para text-center lh-base">
+                            <h6 className="fs-5 s2-para lh-base">
                                 Finding a sustainable business solution that your audience will equally approve of is a major challenge for startups. Keep your eggs in a safe basket with MVP app development that offers minimum yet intriguing features of value to the target market. Their response and feedback determine how you move forward with the idea.
                             </h6>
                         </div>

@@ -38,7 +38,7 @@
   display: block;
   font-size: 44px;
   color: white;
-  font-weight: bold;
+  font-weight: bold; 
   margin: 10px 0;
 }
 .span2 {
@@ -104,7 +104,7 @@ input {
 }
 
 .ul {
-  width: 60%;
+  width: 80%;
   display: flex;
   align-items: center;
   justify-content: space-between;
@@ -275,20 +275,20 @@ input {
   margin-bottom: 30px;
   color: black;
   font-weight: bold;
-  font-size: 45px;
 }
 .section3 p {
   display: block;
   margin-bottom: 30px;
   color: black;
   width: 700px;
+  text-align: justify;
   font-size: 19px;
   line-height: 32px;
 }
 
 .section4 {
   width: 100%;
-  min-height: 100vh;
+  height: max-content;
   padding: 50px 20px;
   margin-top: 70px;
 }
@@ -415,6 +415,7 @@ input {
 .section5 p {
   width: 700px;
   color: white;
+  text-align: justify;
   line-height: 35px;
   margin-bottom: 30px;
   font-size: 18px;
@@ -448,6 +449,7 @@ input {
 }
 .section6 .content1 h3 {
   width: 55%;
+  text-align: justify;
   font-size: 20px;
   line-height: 35px;
 }
@@ -584,6 +586,7 @@ input {
 }
 
 .javaright6 p {
+  text-align: justify;
   line-height: 37px;
   margin-bottom: 20px;
 }
@@ -616,6 +619,7 @@ input {
 }
 .section7 div p {
   width: 600px;
+  text-align: justify;
   line-height: 35px;
   font-size: 20px;
 }
@@ -854,6 +858,7 @@ input {
 .insights p {
   margin-left: 30px;
   margin-bottom: 80px;
+  text-align: justify;
   font-size: 20px;
 }
 
@@ -933,9 +938,8 @@ input {
   text-align: center;
   font-size: 30px;
   color: white;
-  margin-top: 20px;
+  margin: 20px auto 0 auto;
   font-weight: bold;
-  line-height: 40px;
 }
 
 .insightCard3 button {
@@ -1020,8 +1024,21 @@ input {
     margin-top: 80px;
     margin-left: 0;
   }
+  .ul {
+    text-align: center;
+    margin: 2rem auto;
+    width: 80%;
+  }
   .ul img {
-    width: 50px;
+    width: 80px;
+    
+  }
+  .content h1{
+    text-align: center;
+  }
+  .m-span{
+    text-align: center !important;
+    margin: 0 auto;
   }
 }
 
@@ -1243,6 +1260,7 @@ input {
     width: 100%;
     line-height: 35px;
     padding: 0 10px;
+    text-align: justify;
     font-size: 19px;
   }
 
@@ -1287,7 +1305,6 @@ input {
     margin-bottom: 30px;
     color: black;
     font-weight: bold;
-    font-size: 32px;
   }
 
   .section3 p {
@@ -1359,6 +1376,7 @@ input {
   .javaright6:before {
     content: "";
     display: none;
+
   }
 }
 
@@ -1407,14 +1425,12 @@ input {
     width: 100%;
     color: white;
     font-size: 16px;
-    text-align: center;
     margin-bottom: 25px;
     line-height: 24px;
   }
   .section2 h1:nth-child(4) {
     width: 100%;
     font-size: 16px;
-    text-align: center;
     line-height: 24px;
   }
 }
@@ -1422,6 +1438,8 @@ input {
 
 
 @media (max-width: 500px) {
+
+
   .section7 div h1 span {
     display: inline;
     margin: 10px 0;
@@ -1459,7 +1477,7 @@ input {
     height: 100px;
     padding: 0 20px;
     margin-top: 20px;
-    margin-bottom: 80px;
+    margin-bottom: 0;
     display: flex;
     justify-content: space-between;
     flex-direction: column;
