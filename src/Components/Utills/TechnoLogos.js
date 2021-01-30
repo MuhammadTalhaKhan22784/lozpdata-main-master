@@ -4,7 +4,7 @@ const TechnoLogos = (props) => {
     return (
         <>
             <div className="techno-logos-items">
-                <img src={props.imageSource}/>
+                <img alt="img" src={props.imageSource}/>
                 <span>{props.imageSourceText}</span>
             </div>
         </>

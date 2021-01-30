@@ -14,11 +14,11 @@ const PreviousWorkSectionData = (props) => {
             <div style={{ marginTop: props.isData ? '7rem' : '0px' }} className="prev-work-items ">
                 <div className="row">
                     <div className="col-lg-6 prev-work-item-1 ">
-                        <img
+                        <img alt="img"
                             style={{ top: props.isData ? "50px" : "30px" }}
                             className="prev-img-0" src={props.prevImg1} />
-                        <img className="prev-img-1" src={props.prevImg2} />
-                        <img style={{
+                        <img alt="img" className="prev-img-1" src={props.prevImg2} />
+                        <img alt="img" style={{
                             display: props.isData ? 'none' : 'block'
 
                         }} className="prev-img-2" src={props.prevImg4} />
@@ -26,7 +26,7 @@ const PreviousWorkSectionData = (props) => {
                     <div className="col-lg-6 prev-work-item-2 ">
                         <Fade left duration={1300} delay={300}>
                             <div>
-                                <img src={props.prevImg3} />
+                                <img alt="img" src={props.prevImg3} />
                             </div>
                         </Fade>
                         <Fade left duration={1300} delay={300}>

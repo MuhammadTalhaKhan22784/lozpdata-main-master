@@ -13,8 +13,7 @@ const ServiceModel = ({ openn }) => {
                     <h3> Our Services </h3>
                     <div className='para_div'>
                         <p>
-                            Leveraging cutting-edge technologies to build industry-leading digital products
-                                  
+                            Leveraging cutting-edge technologies to build industry-leading digital products        
                         </p> 
 
                     </div>

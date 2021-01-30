@@ -6,7 +6,7 @@ const WebDevelopmentSection7Data = (props) => {
         <>
             <div className="col-6 col-sm-4 col-md-4 col-lg-2">
                 <div className="web-techno-imgs">
-                    <img src={props.imgSource}/>
+                    <img alt="img" src={props.imgSource}/>
                 </div>
             </div>
         </>

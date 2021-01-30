@@ -96,10 +96,7 @@ const MobAppSec4 = () => {
                 <div className="awardandarrows">
                     <h3>see all our awards</h3>
 
-                    {/* <div>
-        <img src="https://cdn0.iconfinder.com/data/icons/feather/96/591276-arrow-right-512.png" alt="phototectimage" />
-        <img src="https://cdn0.iconfinder.com/data/icons/feather/96/591276-arrow-right-512.png" alt="phototectimage" />
-    </div> */}
+                
                 </div>
             </div>
 

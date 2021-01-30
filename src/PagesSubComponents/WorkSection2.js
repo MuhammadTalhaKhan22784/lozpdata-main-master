@@ -20,7 +20,7 @@ let WorkSection2 = (props) => {
                                 <button onClick={() => history.push("/work/CaseStudy")} className="Worksection2Button">view casestudy</button>
                             </Fade>
                         </div>
-                        <img src={props.image} alt="" />
+                        <img alt="img" src={props.image} alt="" />
                     </div>
                 </div>
             </Element>

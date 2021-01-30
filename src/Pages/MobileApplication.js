@@ -45,17 +45,17 @@ const MobileApplication = () => {
                         </div>
 
                         <div className="ul">
-                        <img src="https://www.cubix.co/themes/responsiv-clean/assets/images/mobile-app-development/logo/estee-lauder.png" alt="phototect" />
-                            <img src="https://www.cubix.co/themes/responsiv-clean/assets/images/mobile-app-development/logo/sapient.png" alt="phototect" />
-                            <img src="https://www.cubix.co/themes/responsiv-clean/assets/images/mobile-app-development/logo/canon.png" alt="phototect" />
-                            <img src="https://www.cubix.co/themes/responsiv-clean/assets/images/mobile-app-development/logo/artizone.png" alt="phototect" />
+                        <img alt="img" src="https://www.cubix.co/themes/responsiv-clean/assets/images/mobile-app-development/logo/estee-lauder.png" alt="phototect" />
+                            <img alt="img" src="https://www.cubix.co/themes/responsiv-clean/assets/images/mobile-app-development/logo/sapient.png" alt="phototect" />
+                            <img alt="img" src="https://www.cubix.co/themes/responsiv-clean/assets/images/mobile-app-development/logo/canon.png" alt="phototect" />
+                            <img alt="img" src="https://www.cubix.co/themes/responsiv-clean/assets/images/mobile-app-development/logo/artizone.png" alt="phototect" />
                             
                             {/* <Swiper navigation={true} grabCursor={true} className="mb-bg-slider">
                                 <SwiperSlide>
-                                    <img src="https://www.cubix.co/themes/responsiv-clean/assets/images/mobile-app-development/logo/estee-lauder.png" alt="phototect" />
-                            <img src="https://www.cubix.co/themes/responsiv-clean/assets/images/mobile-app-development/logo/sapient.png" alt="phototect" />
-                            <img src="https://www.cubix.co/themes/responsiv-clean/assets/images/mobile-app-development/logo/canon.png" alt="phototect" />
-                            <img src="https://www.cubix.co/themes/responsiv-clean/assets/images/mobile-app-development/logo/artizone.png" alt="phototect" />
+                                    <img alt="img" src="https://www.cubix.co/themes/responsiv-clean/assets/images/mobile-app-development/logo/estee-lauder.png" alt="phototect" />
+                            <img alt="img" src="https://www.cubix.co/themes/responsiv-clean/assets/images/mobile-app-development/logo/sapient.png" alt="phototect" />
+                            <img alt="img" src="https://www.cubix.co/themes/responsiv-clean/assets/images/mobile-app-development/logo/canon.png" alt="phototect" />
+                            <img alt="img" src="https://www.cubix.co/themes/responsiv-clean/assets/images/mobile-app-development/logo/artizone.png" alt="phototect" />
                                 </SwiperSlide>
                             </Swiper> */}
                             
@@ -94,22 +94,22 @@ const MobileApplication = () => {
                             <div className="active">
                                 <h1>app development</h1>
                                 <h4>develop visually pleasing apps optimized to swiftly grow your global business revenue</h4>
-                                <img src="https://cdn0.iconfinder.com/data/icons/feather/96/591276-arrow-right-512.png" alt="phototectimage" />
+                                <img alt="img" src="https://cdn0.iconfinder.com/data/icons/feather/96/591276-arrow-right-512.png" alt="phototectimage" />
                             </div>
                             <div>
                                 <h1>blockchain development</h1>
                                 <h4>Be it cryptocurrency development or an ICO launch, our blockchain experts create secure decentralized apps.</h4>
-                                <img src="https://cdn0.iconfinder.com/data/icons/feather/96/591276-arrow-right-512.png" alt="phototectimage" />
+                                <img alt="img" src="https://cdn0.iconfinder.com/data/icons/feather/96/591276-arrow-right-512.png" alt="phototectimage" />
                             </div>
                             <div>
                                 <h1>augmented reality</h1>
                                 <h4>Let your customers experience the beauty and power of AR, VR and motion capture technologies.</h4>
-                                <img src="https://cdn0.iconfinder.com/data/icons/feather/96/591276-arrow-right-512.png" alt="phototectimage" />
+                                <img alt="img" src="https://cdn0.iconfinder.com/data/icons/feather/96/591276-arrow-right-512.png" alt="phototectimage" />
                             </div>
                             <div>
                                 <h1>game development</h1>
                                 <h4>Build spectacular 2D and 3D multiplayer games for mobile devices powered by addictive gameplay.</h4>
-                                <img src="https://cdn0.iconfinder.com/data/icons/feather/96/591276-arrow-right-512.png" alt="phototectimage" />
+                                <img alt="img" src="https://cdn0.iconfinder.com/data/icons/feather/96/591276-arrow-right-512.png" alt="phototectimage" />
                             </div>
                         </div>
                     </div>
@@ -207,31 +207,31 @@ const MobileApplication = () => {
                         <div className="leftSideChild">
                             <h3>language</h3>
                             <div className="items">
-                                <img src="https://www.cubix.co/themes/responsiv-clean/assets/images/seo-pages/mobile-seo/javalogo.png" alt="phototect" />
-                                <img src="https://www.cubix.co/themes/responsiv-clean/assets/images/seo-pages/mobile-seo/language-logo-2.png" alt="phototect" />
-                                <img src="https://www.cubix.co/themes/responsiv-clean/assets/images/seo-pages/mobile-seo/js-logo.png" alt="phototect" />
-                                <img src="https://www.cubix.co/themes/responsiv-clean/assets/images/seo-pages/mobile-seo/swift-logo.png" alt="phototect" />
-                                <img src="https://www.cubix.co/themes/responsiv-clean/assets/images/seo-pages/mobile-seo/objective-c.png" alt="phototect" />
+                                <img alt="img" src="https://www.cubix.co/themes/responsiv-clean/assets/images/seo-pages/mobile-seo/javalogo.png" alt="phototect" />
+                                <img alt="img" src="https://www.cubix.co/themes/responsiv-clean/assets/images/seo-pages/mobile-seo/language-logo-2.png" alt="phototect" />
+                                <img alt="img" src="https://www.cubix.co/themes/responsiv-clean/assets/images/seo-pages/mobile-seo/js-logo.png" alt="phototect" />
+                                <img alt="img" src="https://www.cubix.co/themes/responsiv-clean/assets/images/seo-pages/mobile-seo/swift-logo.png" alt="phototect" />
+                                <img alt="img" src="https://www.cubix.co/themes/responsiv-clean/assets/images/seo-pages/mobile-seo/objective-c.png" alt="phototect" />
                             </div>
                             <h3>Database</h3>
                             <div className="items">
-                                <img src="https://www.cubix.co/themes/responsiv-clean/assets/images/seo-pages/mobile-seo/core-data.png" alt="phototect" />
-                                <img src="https://www.cubix.co/themes/responsiv-clean/assets/images/seo-pages/mobile-seo/room-database.png" alt="phototect" />
-                                <img src="https://www.cubix.co/themes/responsiv-clean/assets/images/seo-pages/mobile-seo/realm.png" alt="phototect" />
-                                <img src="https://www.cubix.co/themes/responsiv-clean/assets/images/seo-pages/mobile-seo/SQLitelogo.png" alt="phototect" />
-                                <img src="https://www.cubix.co/themes/responsiv-clean/assets/images/seo-pages/mobile-seo/redux.png" alt="phototect" />
+                                <img alt="img" src="https://www.cubix.co/themes/responsiv-clean/assets/images/seo-pages/mobile-seo/core-data.png" alt="phototect" />
+                                <img alt="img" src="https://www.cubix.co/themes/responsiv-clean/assets/images/seo-pages/mobile-seo/room-database.png" alt="phototect" />
+                                <img alt="img" src="https://www.cubix.co/themes/responsiv-clean/assets/images/seo-pages/mobile-seo/realm.png" alt="phototect" />
+                                <img alt="img" src="https://www.cubix.co/themes/responsiv-clean/assets/images/seo-pages/mobile-seo/SQLitelogo.png" alt="phototect" />
+                                <img alt="img" src="https://www.cubix.co/themes/responsiv-clean/assets/images/seo-pages/mobile-seo/redux.png" alt="phototect" />
                             </div >
                             <h3>Framework</h3>
                             <div className="items">
-                                <img src="https://www.cubix.co/themes/responsiv-clean/assets/images/seo-pages/mobile-seo/Alamofire.png" alt="phototect" />
-                                <img src="https://www.cubix.co/themes/responsiv-clean/assets/images/seo-pages/mobile-seo/firebase.png" alt="phototect" />
-                                <img src="https://www.cubix.co/themes/responsiv-clean/assets/images/seo-pages/mobile-seo/FFmpeg.png" alt="phototect" />
+                                <img alt="img" src="https://www.cubix.co/themes/responsiv-clean/assets/images/seo-pages/mobile-seo/Alamofire.png" alt="phototect" />
+                                <img alt="img" src="https://www.cubix.co/themes/responsiv-clean/assets/images/seo-pages/mobile-seo/firebase.png" alt="phototect" />
+                                <img alt="img" src="https://www.cubix.co/themes/responsiv-clean/assets/images/seo-pages/mobile-seo/FFmpeg.png" alt="phototect" />
                             </div>
                         </div>
 
                         <div className="javaright6">
                             <div>
-                                <img src="https://www.cubix.co/themes/responsiv-clean/assets/images/seo-pages/mobile-seo/javalogo.png" alt="phototectimage" />
+                                <img alt="img" src="https://www.cubix.co/themes/responsiv-clean/assets/images/seo-pages/mobile-seo/javalogo.png" alt="phototectimage" />
                                 <span><h2>java</h2></span>
                             </div>
 
@@ -285,26 +285,26 @@ const MobileApplication = () => {
                     <Swiper navigation={true} grabCursor={true} className="mb-slider">
                         <SwiperSlide>
                             <div className="child2">
-                                <div><img src="https://www.cubix.co/themes/responsiv-clean/assets/images/seo-pages/mobile-seo/bannersimage-77.png" alt="phototectimage" /></div>
-                                <div className="downItem"><img src="https://www.cubix.co/themes/responsiv-clean/assets/images/seo-pages/mobile-seo/bannersimage-111.png" alt="phototectimage" /></div>
-                                <div><img src="https://www.cubix.co/themes/responsiv-clean/assets/images/seo-pages/mobile-seo/bannersimage-1111.png" alt="phototectimage" /></div>
-                                <div className="downItem"><img src="https://www.cubix.co/themes/responsiv-clean/assets/images/seo-pages/mobile-seo/bannersimage-66.png" alt="phototectimage" /></div>
+                                <div><img alt="img" src="https://www.cubix.co/themes/responsiv-clean/assets/images/seo-pages/mobile-seo/bannersimage-77.png" alt="phototectimage" /></div>
+                                <div className="downItem"><img alt="img" src="https://www.cubix.co/themes/responsiv-clean/assets/images/seo-pages/mobile-seo/bannersimage-111.png" alt="phototectimage" /></div>
+                                <div><img alt="img" src="https://www.cubix.co/themes/responsiv-clean/assets/images/seo-pages/mobile-seo/bannersimage-1111.png" alt="phototectimage" /></div>
+                                <div className="downItem"><img alt="img" src="https://www.cubix.co/themes/responsiv-clean/assets/images/seo-pages/mobile-seo/bannersimage-66.png" alt="phototectimage" /></div>
                             </div>
                         </SwiperSlide>
                         <SwiperSlide>
                             <div className="child2">
-                                <div><img src="https://www.cubix.co/themes/responsiv-clean/assets/images/seo-pages/mobile-seo/bannersimage-77.png" alt="phototectimage" /></div>
-                                <div className="downItem"><img src="https://www.cubix.co/themes/responsiv-clean/assets/images/seo-pages/mobile-seo/bannersimage-111.png" alt="phototectimage" /></div>
-                                <div><img src="https://www.cubix.co/themes/responsiv-clean/assets/images/seo-pages/mobile-seo/bannersimage-1111.png" alt="phototectimage" /></div>
-                                <div className="downItem"><img src="https://www.cubix.co/themes/responsiv-clean/assets/images/seo-pages/mobile-seo/bannersimage-66.png" alt="phototectimage" /></div>
+                                <div><img alt="img" src="https://www.cubix.co/themes/responsiv-clean/assets/images/seo-pages/mobile-seo/bannersimage-77.png" alt="phototectimage" /></div>
+                                <div className="downItem"><img alt="img" src="https://www.cubix.co/themes/responsiv-clean/assets/images/seo-pages/mobile-seo/bannersimage-111.png" alt="phototectimage" /></div>
+                                <div><img alt="img" src="https://www.cubix.co/themes/responsiv-clean/assets/images/seo-pages/mobile-seo/bannersimage-1111.png" alt="phototectimage" /></div>
+                                <div className="downItem"><img alt="img" src="https://www.cubix.co/themes/responsiv-clean/assets/images/seo-pages/mobile-seo/bannersimage-66.png" alt="phototectimage" /></div>
                             </div>
                         </SwiperSlide>
                         <SwiperSlide>
                             <div className="child2">
-                                <div><img src="https://www.cubix.co/themes/responsiv-clean/assets/images/seo-pages/mobile-seo/bannersimage-77.png" alt="phototectimage" /></div>
-                                <div className="downItem"><img src="https://www.cubix.co/themes/responsiv-clean/assets/images/seo-pages/mobile-seo/bannersimage-111.png" alt="phototectimage" /></div>
-                                <div><img src="https://www.cubix.co/themes/responsiv-clean/assets/images/seo-pages/mobile-seo/bannersimage-1111.png" alt="phototectimage" /></div>
-                                <div className="downItem"><img src="https://www.cubix.co/themes/responsiv-clean/assets/images/seo-pages/mobile-seo/bannersimage-66.png" alt="phototectimage" /></div>
+                                <div><img alt="img" src="https://www.cubix.co/themes/responsiv-clean/assets/images/seo-pages/mobile-seo/bannersimage-77.png" alt="phototectimage" /></div>
+                                <div className="downItem"><img alt="img" src="https://www.cubix.co/themes/responsiv-clean/assets/images/seo-pages/mobile-seo/bannersimage-111.png" alt="phototectimage" /></div>
+                                <div><img alt="img" src="https://www.cubix.co/themes/responsiv-clean/assets/images/seo-pages/mobile-seo/bannersimage-1111.png" alt="phototectimage" /></div>
+                                <div className="downItem"><img alt="img" src="https://www.cubix.co/themes/responsiv-clean/assets/images/seo-pages/mobile-seo/bannersimage-66.png" alt="phototectimage" /></div>
                             </div>
                         </SwiperSlide>
                     </Swiper>
@@ -347,7 +347,7 @@ const MobileApplication = () => {
                     <div className="InsightContent">
                         <div className="insightCard">
                             <div>
-                                <img src="https://www.cubix.co/themes/responsiv-clean/assets/images/seo-pages/mobile-seo/seo-blog-22.jpg" alt="phototectimage" />
+                                <img alt="img" src="https://www.cubix.co/themes/responsiv-clean/assets/images/seo-pages/mobile-seo/seo-blog-22.jpg" alt="phototectimage" />
                             </div>
                             <div className="cnt">
                                 <h1>mobail game development</h1>
@@ -359,7 +359,7 @@ const MobileApplication = () => {
                         </div>
                         <div className="insightCard">
                             <div>
-                                <img src="https://www.cubix.co/themes/responsiv-clean/assets/images/seo-pages/mobile-seo/seo-blog-11.jpg" alt="phototectimage" />
+                                <img alt="img" src="https://www.cubix.co/themes/responsiv-clean/assets/images/seo-pages/mobile-seo/seo-blog-11.jpg" alt="phototectimage" />
                             </div>
                             <div className="cnt">
                                 <h1>iphone app development</h1>
@@ -370,7 +370,7 @@ const MobileApplication = () => {
                             </div>
                         </div>
                         <div className="insightCard3">
-                            <img src="https://www.cubix.co/themes/responsiv-clean/assets/images/seo-pages/mobile-seo/sideboxicon.png" alt="phototectimage" />
+                            <img alt="img" src="https://www.cubix.co/themes/responsiv-clean/assets/images/seo-pages/mobile-seo/sideboxicon.png" alt="phototectimage" />
                             <h1>Get our best content straight to your inbox.</h1>
                             <button>contact us</button>
                         </div>

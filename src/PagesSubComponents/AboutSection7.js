@@ -10,7 +10,7 @@ const AboutSection7 = () => {
                     <div className="row">
                         <div className="col-12 col-sm-12 col-md-6 col-lg-6">
                             <div className="abt-sec-7-img">
-                                <img className="img-thumbnail" src={abtImg3} />
+                                <img alt="img" className="img-thumbnail" src={abtImg3} />
                             </div>
                         </div>
                         <div className="col-12 col-sm-12 col-md-6 col-lg-6">

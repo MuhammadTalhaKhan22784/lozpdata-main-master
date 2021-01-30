@@ -3,7 +3,6 @@ import { Link } from 'react-router-dom'
 import './hover.css'
 
 const AboutModel = ({ open2 }) => {
-    // console.log(value)
 
     let [open, setOpen] = useState(false)
 

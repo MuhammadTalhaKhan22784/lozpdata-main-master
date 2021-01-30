@@ -5,7 +5,7 @@ const AboutClientSection2Data = (props) => {
         <>
             <div className="col-6 col-sm-4 col-md-4 col-lg-3">
                 <div className="abt-client-imgs">
-                    <img
+                    <img alt="img"
                     src={props.clientImage}
                     />
                 </div>

@@ -40,14 +40,7 @@ const ResourcesNewsUpdateSec2 = (props) => {
         </>
     )
 }
-{/* <div className="res-news-card">
-                                <div className="res-news-card-content">
-                                    <img src="https://www.cubix.co/storage/app/media/about/yahoo-logo.svg" />
-                                    <p className="fs-6">
-                                        Yahoo There's finally a dating app for people with disabilities
-                                </p>
-                                </div>
-                            </div> */}
+
 
 
 export default ResourcesNewsUpdateSec2

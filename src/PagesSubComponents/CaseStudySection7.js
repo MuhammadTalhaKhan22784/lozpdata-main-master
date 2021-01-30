@@ -12,7 +12,7 @@ let CaseStudySection7 = (props) => {
             </div>
 
             <div className="CaseStudySection7_imageBox">
-                <img src="https://www.cubix.co/themes/responsiv-clean/assets/images/foodly-portfolio/last-section-bg.jpg" alt="" />
+                <img alt="img" src="https://www.cubix.co/themes/responsiv-clean/assets/images/foodly-portfolio/last-section-bg.jpg" alt="" />
             </div>
         </div>
     )

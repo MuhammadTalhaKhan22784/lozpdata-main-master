@@ -8,7 +8,7 @@ const AboutSection2 = () => {
                     <div className="row flex-row-reverse">
                         <div className="col-12 col-sm-12 col-md-6 col-lg-6">
                             <div className="abt-main-image mt-5">
-                                <img src="https://www.cubix.co/themes/responsiv-clean/assets/images/about/cubix-about.jpg" />
+                                <img alt="img" src="https://www.cubix.co/themes/responsiv-clean/assets/images/about/cubix-about.jpg" />
                             </div>
                         </div>
                         <div className="col-12 col-sm-12 col-md-6 col-lg-6">

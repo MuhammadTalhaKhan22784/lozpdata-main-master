@@ -89,7 +89,7 @@ const NavList = ({ hideFunc, showFunc, openList, hide, vertical, aboutFunc, hide
                             value='4' className={!vertical ? `resourcess ${color ? "act" : ""}` : 'resourcess2'}
                         ><Link
                             onClick={() => { setOpen(false); document.body.classList.remove('scroll'); }}
-
+                            to="#"
                             className={!vertical ? `resourcess ${color ? "act" : ""}` : 'resourcess2'} >Resources</Link>
                             <div className='model_div4'
 
@@ -171,6 +171,7 @@ const NavList = ({ hideFunc, showFunc, openList, hide, vertical, aboutFunc, hide
                             <li className='resources' >
                                 {/* <p>Resource</p> */}
                                 <Link
+                                to="#"
                                     onClick={() => { setOpen(false); document.body.classList.remove('scroll'); }}
                                     className={!vertical ? `resourcess ${color ? "act" : ""}` : 'resourcess2'} >Resources</Link>
                                 <ExpandMoreIcon className='expand'

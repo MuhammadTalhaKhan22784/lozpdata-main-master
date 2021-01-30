@@ -11,7 +11,7 @@ const BlogCard1 = () => {
             <div className="blogcard-1">
                 <div className="b-main-1">
                     <h2 className="display-6">SharePoint and Digital Asset Management</h2>
-                    <img className="img-fluid" src="https://www.cubix.co/storage/app/uploads/public/600/18d/016/60018d016f78a505883607.jpg" />
+                    <img alt="img" className="img-fluid" src="https://www.cubix.co/storage/app/uploads/public/600/18d/016/60018d016f78a505883607.jpg" />
                 </div>
                 <div className="blg-1-content">
                     <div className="b-main-2 mt-5">

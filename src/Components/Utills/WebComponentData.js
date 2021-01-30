@@ -23,7 +23,7 @@ const WebComponentData = (props) => {
                         <div style={{
                             display: props.isShow ? `none` : `block`
                         }} className="bg-web-icon">
-                            <img src={props.imgIcon} />
+                            <img alt="img" src={props.imgIcon} />
                         </div>
                     </Fade>
                     <Fade bottom duration={1200} delay={300}>

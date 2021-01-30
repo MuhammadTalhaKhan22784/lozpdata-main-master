@@ -21,17 +21,17 @@ const MVPDevelopment = () => {
 
     return (
         <>
-            <Navbar />
+            <Navbar /> 
             <div className="hero">
                 <div className="container mvp-mob-view">
                     <Fade bottom duration={1200} delay={200}>
-                        <img className="sd-icon" src="https://www.cubix.co/themes/responsiv-clean/assets/images/mvp-startup-development/MVP-startup-development-icon.svg" alt="" />
+                        <img alt="img" className="sd-icon" src="https://www.cubix.co/themes/responsiv-clean/assets/images/mvp-startup-development/MVP-startup-development-icon.svg" alt="" />
                     </Fade>
                     <Fade bottom duration={1200} delay={300}>
-                        <h1 className="sd-heading">Mvp product <br /> development</h1>
+                        <h1 className="lh-base sd-heading">Mvp product <br /> development</h1>
                     </Fade>
                     <Fade bottom duration={1200} delay={400}>
-                        <p className="fs-6 sd-para">
+                        <p className="fs-5 lh-base sd-para">
                             Startups are eager to release their final product in the
                             market and dream to conquer the industry with it.
                             Developing such a product takes time and by the time it is

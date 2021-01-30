@@ -90,7 +90,7 @@ const Navbar = ({mode = false}) => {
                 <div className='logo_div'>
                     <Link to="/"
                         onClick={() => { setOpen(false); document.body.classList.remove('scroll'); }}
-                    > <img className='logo' src={logoImg1} style={{ filter: `${color ? "invert(1)" : ""} ` }} alt="" /></Link>
+                    > <img alt="img" className='logo' src={logoImg1} style={{ filter: `${color ? "invert(1)" : ""} ` }} alt="" /></Link>
                 </div>
                 <div>
                     <NavList color={color} setcolor={setcolor} openList={open} vertical={hide} aboutFunc={handleAbout} hideAbout={handleHideAbout} showFunc={handleShow} hideFunc={handleHide} />

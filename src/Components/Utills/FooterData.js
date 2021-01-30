@@ -5,7 +5,7 @@ const FooterData = (props) => {
         <>
             <div className="footer-items ">
                 <div className="ft-div-1">
-                    <img src={props.countryImage} />
+                    <img alt="img" src={props.countryImage} />
                     <h2>{props.countryName}</h2>
                 </div>
                 <div className="ft-div-2">

@@ -16,9 +16,7 @@ const DrivenProducts = () => {
     const WebiconTextTwo=["Development"]
     const BlockchainiconTextOne=["Blockchain"]   
     const BlockchainiconTextTwo=["Development"]
-    // const GameiconName=["fas fa-mobile-alt fa-3x"]
-    // const GameiconTextOne=["App"]   
-    // const GameiconTextTwo=["Development"]
+   
 
     return (
         <>

@@ -7,7 +7,7 @@ const MVPDevelopmentSection3 = () => {
                 {/* <div className="container"> */}
                     <div className=" mvp-sec2-mob row d-flex align-items-center">
                         <div className="col-sm-12 col-lg-5">
-                            <img src="https://www.cubix.co/themes/responsiv-clean/assets/images/mvp-startup-development/Nurturing-Your-Business-Idea.png" alt="" className="img-fluid" />
+                            <img alt="img" src="https://www.cubix.co/themes/responsiv-clean/assets/images/mvp-startup-development/Nurturing-Your-Business-Idea.png" alt="" className="img-fluid" />
                         </div>
                         <div className="col-sm-12 col-lg-7 px-5">
                             <h2 className="fs-3 fw-bold text-center lh-base mt-2">Nurturing your business idea: the road to success with mvp development</h2>

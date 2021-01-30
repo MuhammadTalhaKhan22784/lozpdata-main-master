@@ -5,9 +5,9 @@ const MVPDevelopmentSection4Data = (props) => {
         <>
             <div className="col-6">
                 <div className="s4-box">
-                    <img src={props.cardImg1} alt="" className="img-fluid s4-emoji" />
+                    <img alt="img" src={props.cardImg1} className="img-fluid s4-emoji" />
                     <h3 className="text-center">{props.cardText}</h3>
-                    <img src={props.cardImg2} alt="" className="img-fluid s4-building" />
+                    <img alt="img" src={props.cardImg2} className="img-fluid s4-building" />
                 </div>
             </div>
 

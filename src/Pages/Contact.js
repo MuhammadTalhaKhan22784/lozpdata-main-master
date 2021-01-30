@@ -14,7 +14,7 @@ const Contact = () => {
             <div className="contact-content">
                 <div className="contact-left-content">
                     <div className='logo_div'>
-                        <Link to="/"> <img className='logo' src={logoImg1} alt="" /></Link>
+                        <Link to="/"> <img alt="img" className='logo' src={logoImg1} /></Link>
                     </div>
                     <div className="sub-contact-2">
                         <Swiper className="py-5" loop={true} navigation={true} grabCursor={true}>
@@ -26,8 +26,8 @@ const Contact = () => {
                                     <span>VIEW LOCATION</span>
                                 </div>
                                 <div className="sub-contact-2-item-2">
-                                    <img className="sub-cont-img-1" src="https://www.cubix.co/themes/responsiv-clean/assets/images/contact/birds.svg" />
-                                    <img src="https://www.cubix.co/themes/responsiv-clean/assets/images/contact/dubai-landscape.svg" />
+                                    <img alt="img" className="sub-cont-img-1" src="https://www.cubix.co/themes/responsiv-clean/assets/images/contact/birds.svg" />
+                                    <img alt="img" src="https://www.cubix.co/themes/responsiv-clean/assets/images/contact/dubai-landscape.svg" />
                                 </div>
                             </SwiperSlide>
                             <SwiperSlide>
@@ -38,8 +38,8 @@ const Contact = () => {
                                     <span>VIEW LOCATION</span>
                                 </div>
                                 <div className="sub-contact-2-item-2">
-                                    <img className="sub-cont-img-1" src="https://www.cubix.co/themes/responsiv-clean/assets/images/contact/birds.svg" />
-                                    <img src="https://www.cubix.co/themes/responsiv-clean/assets/images/contact/dubai-landscape.svg" />
+                                    <img alt="img" className="sub-cont-img-1" src="https://www.cubix.co/themes/responsiv-clean/assets/images/contact/birds.svg" />
+                                    <img alt="img" src="https://www.cubix.co/themes/responsiv-clean/assets/images/contact/dubai-landscape.svg" />
                                 </div>
                             </SwiperSlide>
                             <SwiperSlide>
@@ -50,8 +50,8 @@ const Contact = () => {
                                     <span>VIEW LOCATION</span>
                                 </div>
                                 <div className="sub-contact-2-item-2">
-                                    <img className="sub-cont-img-1" src="https://www.cubix.co/themes/responsiv-clean/assets/images/contact/birds.svg" />
-                                    <img src="https://www.cubix.co/themes/responsiv-clean/assets/images/contact/dubai-landscape.svg" />
+                                    <img alt="img" className="sub-cont-img-1" src="https://www.cubix.co/themes/responsiv-clean/assets/images/contact/birds.svg" />
+                                    <img alt="img" src="https://www.cubix.co/themes/responsiv-clean/assets/images/contact/dubai-landscape.svg" />
                                 </div>
                             </SwiperSlide>
                         </Swiper>

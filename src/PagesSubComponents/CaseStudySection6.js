@@ -9,9 +9,9 @@ let CaseStudySection6 = (props) => {
                 <p>Average users can login to place their order through the app and track it from when it is in processing, confirmed, in preparation, and on its way to your home. Furthermore, the in-app wallet converts the dollars spent into reward points that can be traded for more purchases. It also lists points earned per restaurant so users can track where they spent.</p>
             </div>
             <div className="CaseStudySection6-images">
-                <img src="https://www.cubix.co/themes/responsiv-clean/assets/images/foodly-portfolio/section4-mobile1.png" alt="" />
-                <img src="https://www.cubix.co/themes/responsiv-clean/assets/images/foodly-portfolio/section4-mobile2.png" alt="" />
-                <img src="https://www.cubix.co/themes/responsiv-clean/assets/images/foodly-portfolio/section4-mobile3.png" alt="" />
+                <img alt="img" src="https://www.cubix.co/themes/responsiv-clean/assets/images/foodly-portfolio/section4-mobile1.png" alt="" />
+                <img alt="img" src="https://www.cubix.co/themes/responsiv-clean/assets/images/foodly-portfolio/section4-mobile2.png" alt="" />
+                <img alt="img" src="https://www.cubix.co/themes/responsiv-clean/assets/images/foodly-portfolio/section4-mobile3.png" alt="" />
             </div>
         </div>
     )

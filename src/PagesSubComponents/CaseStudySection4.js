@@ -9,8 +9,8 @@ let CaseStudySection4 = (props) => {
                 <p>The restaurant page in the app opens up to list the menu with a header featuring the restaurant description, time of delivery, and the restaurant rating. It also provides directions on map for users to conveniently locate the restaurant in their vicinity for dine in or order pick up.</p>
             </div>
             <div className="CaseStudySection2-images">
-                <img src="https://www.cubix.co/themes/responsiv-clean/assets/images/foodly-portfolio/section2-mobile1.png" alt="" />
-                <img src="https://www.cubix.co/themes/responsiv-clean/assets/images/foodly-portfolio/section2-mobile2.png" alt="" />
+                <img alt="img" src="https://www.cubix.co/themes/responsiv-clean/assets/images/foodly-portfolio/section2-mobile1.png" alt="" />
+                <img alt="img" src="https://www.cubix.co/themes/responsiv-clean/assets/images/foodly-portfolio/section2-mobile2.png" alt="" />
             </div>
         </div>
     )

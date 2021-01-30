@@ -18,7 +18,7 @@ const WebDevelopmentSection6 = (props) => {
                         </div>
                     </Fade>
                     <div className="col-sm-12 col-md-6 col-lg-6 d-flex align-items-center">
-                        <img className="img-fluid" src={props.webImg} />
+                        <img alt="img" className="img-fluid" src={props.webImg} />
                     </div>
                 </div>
             </div>

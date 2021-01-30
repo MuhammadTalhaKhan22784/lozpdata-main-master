@@ -1,6 +1,5 @@
 import React, { useLayoutEffect } from 'react'
 import WebComponentData from '../Components/Utills/WebComponentData'
-// import Navbar from '../Layout/Navbar'
 import Navbar from '../Layout/navbar/navbar'
 import MVPDevelopmentSection1 from '../PagesSubComponents/MVPDevelopmentSection1'
 import '../Pages/Styles/ArtificialIntelligence.css'

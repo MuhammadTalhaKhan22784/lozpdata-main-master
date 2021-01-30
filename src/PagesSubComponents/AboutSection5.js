@@ -13,12 +13,12 @@ const AboutSection5 = () => {
                         <div className="row mx-auto gy-5">
                             <div className="col-8 col-sm-8 col-md-8 col-lg-8">
                                 <div className="abt-5-img-1">
-                                    <img src="https://www.cubix.co/themes/responsiv-clean/assets/images/about/cubix-family-768x538.jpg" />
+                                    <img alt="img" src="https://www.cubix.co/themes/responsiv-clean/assets/images/about/cubix-family-768x538.jpg" />
                                 </div>
                             </div>
                             <div className="col-4 col-sm-4 col-md-4 col-lg-4">
                                 <div className="abt-5-img-2">
-                                    <img src="https://www.cubix.co/themes/responsiv-clean/assets/images/about/about-cubix-side.jpg" />
+                                    <img alt="img" src="https://www.cubix.co/themes/responsiv-clean/assets/images/about/about-cubix-side.jpg" />
                                 </div>
                             </div>
                         </div>

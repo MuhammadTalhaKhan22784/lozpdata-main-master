@@ -5,7 +5,7 @@ const TabItems = (props) => {
         <>
             <div className="tabs-icons">
                 <div>
-                    <img src={props.imgSource} />
+                    <img alt="img" src={props.imgSource} />
                 </div>
                 <span>{props.imgText}</span>
             </div>

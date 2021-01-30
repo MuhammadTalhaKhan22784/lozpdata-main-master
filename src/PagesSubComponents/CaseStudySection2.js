@@ -18,8 +18,8 @@ let CaseStudySection2 = (props) => {
                 </div>
             </div>
             <div className="CaseStudySection2-images">
-                <img src="https://www.cubix.co/themes/responsiv-clean/assets/images/foodly-portfolio/section1-mobile-1.png" alt="" />
-                <img src="https://www.cubix.co/themes/responsiv-clean/assets/images/foodly-portfolio/section1-mobile-2.png" alt="" />
+                <img alt="img" src="https://www.cubix.co/themes/responsiv-clean/assets/images/foodly-portfolio/section1-mobile-1.png" alt="" />
+                <img alt="img" src="https://www.cubix.co/themes/responsiv-clean/assets/images/foodly-portfolio/section1-mobile-2.png" alt="" />
             </div>
         </div>
     )

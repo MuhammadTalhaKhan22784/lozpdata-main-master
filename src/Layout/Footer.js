@@ -26,13 +26,13 @@ const Footer = () => {
                         ftText2="Web Development"
                         ftText3="MVP Development"
                         ftText4="Artificial Intelligence" />
-                    <FooterData2 ftName="Info"
+                    {/* <FooterData2 ftName="Info"
                         ftText1="abc123@gmail.com"
                         ftText2="+923104267558"
                         ftText3="&nbsp;"
                         ftText4="&nbsp;"
 
-                    />
+                    /> */}
                 </div>
             </div>
             {/* <div className="ft-hr">
